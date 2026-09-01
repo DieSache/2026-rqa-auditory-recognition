@@ -84,7 +84,7 @@
   [$F(#integer(row.df_effect), #integer(row.df_error)) = #number(row.F_statistic)$]
 }
 
-#let eta(row) = {
+#let eta-value(row) = {
   number(row.partial_eta_squared, digits: 3)
 }
 
