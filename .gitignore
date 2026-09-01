@@ -1,0 +1,5 @@
+.DS_Store
+output/
+
+# Large processed neural inputs are distributed through Zenodo.
+input/broadness/

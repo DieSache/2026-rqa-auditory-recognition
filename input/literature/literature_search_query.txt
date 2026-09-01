@@ -1,0 +1,59 @@
+(
+  "Recognition, Psychology"[MeSH Terms]
+  OR "Memory, Short-Term"[MeSH Terms]
+  OR "recognition memory"[Title/Abstract]
+  OR "auditory memory"[Title/Abstract]
+  OR "memory recognition"[Title/Abstract]
+)
+AND
+(
+  "Auditory Perception"[MeSH Terms]
+  OR "Music"[MeSH Terms]
+  OR auditory[Title/Abstract]
+  OR music*[Title/Abstract]
+  OR melod*[Title/Abstract]
+  OR "tone sequence"[Title/Abstract]
+  OR "tone sequences"[Title/Abstract]
+  OR "sound sequence"[Title/Abstract]
+  OR "sound sequences"[Title/Abstract]
+)
+AND
+(
+  "Electroencephalography"[MeSH Terms]
+  OR "Magnetoencephalography"[MeSH Terms]
+  OR EEG[Title/Abstract]
+  OR MEG[Title/Abstract]
+  OR iEEG[Title/Abstract]
+  OR ECoG[Title/Abstract]
+)
+AND
+(
+  accuracy[Title/Abstract]
+  OR "reaction time"[Title/Abstract]
+  OR "reaction times"[Title/Abstract]
+  OR "response time"[Title/Abstract]
+  OR "response times"[Title/Abstract]
+  OR performance[Title/Abstract]
+  OR recall[Title/Abstract]
+  OR discrimination[Title/Abstract]
+)
+AND
+(
+  "Brain-Behavior Relations"[MeSH Terms]
+  OR correlat*[Title/Abstract]
+  OR associat*[Title/Abstract]
+  OR predict*[Title/Abstract]
+  OR relationship*[Title/Abstract]
+  OR "individual differences"[Title/Abstract]
+  OR "subsequent memory"[Title/Abstract]
+  OR "correct and incorrect"[Title/Abstract]
+  OR "correct versus incorrect"[Title/Abstract]
+  OR "correct vs incorrect"[Title/Abstract]
+  OR "trial-by-trial"[Title/Abstract]
+  OR "trial level"[Title/Abstract]
+)
+AND
+(
+  "2015/01/01"[Date - Publication]
+  : "3000"[Date - Publication]
+)

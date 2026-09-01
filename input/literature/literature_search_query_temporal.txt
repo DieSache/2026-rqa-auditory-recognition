@@ -1,0 +1,72 @@
+(
+  "Memory"[MeSH Terms]
+  OR memory[Title/Abstract]
+  OR recognition[Title/Abstract]
+  OR learning[Title/Abstract]
+)
+AND
+(
+  "Sequence Learning"[MeSH Terms]
+  OR "temporal sequence"[Title/Abstract]
+  OR "temporal sequences"[Title/Abstract]
+  OR "stimulus sequence"[Title/Abstract]
+  OR "stimulus sequences"[Title/Abstract]
+  OR "sequential stimulus"[Title/Abstract]
+  OR "sequential stimuli"[Title/Abstract]
+  OR "dynamic stimulus"[Title/Abstract]
+  OR "dynamic stimuli"[Title/Abstract]
+  OR "continuous stimulus"[Title/Abstract]
+  OR "continuous stimuli"[Title/Abstract]
+  OR "naturalistic stimulus"[Title/Abstract]
+  OR "naturalistic stimuli"[Title/Abstract]
+  OR "event sequence"[Title/Abstract]
+  OR "event sequences"[Title/Abstract]
+  OR "action sequence"[Title/Abstract]
+  OR "action sequences"[Title/Abstract]
+  OR "visual sequence"[Title/Abstract]
+  OR "visual sequences"[Title/Abstract]
+  OR "speech sequence"[Title/Abstract]
+  OR "speech sequences"[Title/Abstract]
+  OR "temporal pattern"[Title/Abstract]
+  OR "temporal patterns"[Title/Abstract]
+)
+AND
+(
+  "Electroencephalography"[MeSH Terms]
+  OR "Magnetoencephalography"[MeSH Terms]
+  OR EEG[Title/Abstract]
+  OR MEG[Title/Abstract]
+  OR iEEG[Title/Abstract]
+  OR ECoG[Title/Abstract]
+)
+AND
+(
+  accuracy[Title/Abstract]
+  OR "reaction time"[Title/Abstract]
+  OR "reaction times"[Title/Abstract]
+  OR "response time"[Title/Abstract]
+  OR "response times"[Title/Abstract]
+  OR performance[Title/Abstract]
+  OR recall[Title/Abstract]
+  OR discrimination[Title/Abstract]
+)
+AND
+(
+  "Brain-Behavior Relations"[MeSH Terms]
+  OR correlat*[Title/Abstract]
+  OR associat*[Title/Abstract]
+  OR predict*[Title/Abstract]
+  OR relationship*[Title/Abstract]
+  OR "individual differences"[Title/Abstract]
+  OR "subsequent memory"[Title/Abstract]
+  OR "correct and incorrect"[Title/Abstract]
+  OR "correct versus incorrect"[Title/Abstract]
+  OR "correct vs incorrect"[Title/Abstract]
+  OR "trial-by-trial"[Title/Abstract]
+  OR "trial level"[Title/Abstract]
+)
+AND
+(
+  "2015/01/01"[Date - Publication]
+  : "3000"[Date - Publication]
+)

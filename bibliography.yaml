@@ -1,0 +1,1254 @@
+thibeault2024:
+  type: article
+  title: "The low-rank hypothesis of complex systems"
+  author:
+  - "Thibeault, Vincent"
+  - "Allard, Antoine"
+  - "Desrosiers, Patrick"
+  date: 2024
+  page-range: "294-302"
+  serial-number:
+    doi: "10.1038/s41567-023-02303-0"
+  parent:
+    type: periodical
+    title: "Nature Physics"
+    volume: "20"
+    issue: "2"
+
+engelken2023:
+  type: article
+  title: "Lyapunov spectra of chaotic recurrent neural networks"
+  author:
+  - "Engelken, Rainer"
+  - "Wolf, Fred"
+  - "Abbott, L. F."
+  date: 2023
+  page-range: "043044"
+  serial-number:
+    doi: "10.1103/PhysRevResearch.5.043044"
+  parent:
+    type: periodical
+    title: "Physical Review Research"
+    volume: "5"
+    issue: "4"
+
+recanatesi2022:
+  type: article
+  title: A scale-dependent measure of system dimensionality.
+  author:
+  - Recanatesi, Stefano
+  - Bradde, Serena
+  - Balasubramanian, Vijay
+  - Steinmetz, Nicholas
+  - Shea-Brown, Eric
+  date: 2022-08-13
+  page-range: '100555'
+  serial-number:
+    doi: 10.1016/j.patter.2022.100555
+    issn: 2666-3899 (Electronic)
+    pmcid: PMC9403367
+    pmid: '36033586'
+  language: en
+  abstract: 'A fundamental problem in science is uncovering the effective number of degrees of freedom in a complex system: its dimensionality. A system''s dimensionality depends on its spatiotemporal scale. Here, we introduce a scale-dependent generalization of a classic enumeration of latent variables, the participation ratio. We demonstrate how the scale-dependent participation ratio identifies the appropriate dimension at local, intermediate, and global scales in several systems such as the Lorenz attractor, hidden Markov models, and switching linear dynamical systems. We show analytically how, at different limiting scales, the scale-dependent participation ratio relates to well-established measures of dimensionality. This measure applied in neural population recordings across multiple brain areas and brain states shows fundamental trends in the dimensionality of neural activity-for example, in behaviorally engaged versus spontaneous states. Our novel method unifies widely used measures of dimensionality and applies broadly to multivariate data across several fields of science.'
+  parent:
+    type: periodical
+    title:
+      value: Patterns (New York, N.Y.)
+      short: Patterns (N Y)
+    issue: '8'
+    volume: '3'
+
+gao2017:
+  type: article
+  title: A theory of multineuronal dimensionality, dynamics and measurement
+  author:
+  - Gao, Peiran
+  - Trautmann, Eric
+  - Yu, Byron
+  - Santhanam, Gopal
+  - Ryu, Stephen
+  - Shenoy, Krishna
+  - Ganguli, Surya
+  date: 2017
+  url: https://www.biorxiv.org/content/early/2017/11/12/214262
+  serial-number:
+    doi: 10.1101/214262
+  abstract: 'In many experiments, neuroscientists tightly control behavior, record many trials, and obtain trial-averaged firing rates from hundreds of neurons in circuits containing billions of behaviorally relevant neurons. Di-mensionality reduction methods reveal a striking simplicity underlying such multi-neuronal data: they can be reduced to a low-dimensional space, and the resulting neural trajectories in this space yield a remarkably insightful dynamical portrait of circuit computation. This simplicity raises profound and timely conceptual questions. What are its origins and its implications for the complexity of neural dynamics? How would the situation change if we recorded more neurons? When, if at all, can we trust dynamical portraits obtained from measuring an infinitesimal fraction of task relevant neurons? We present a theory that answers these questions, and test it using physiological recordings from reaching monkeys. This theory reveals conceptual insights into how task complexity governs both neural dimensionality and accurate recovery of dynamic portraits, thereby providing quantitative guidelines for future large-scale experimental design.'
+  parent:
+    type: periodical
+    title: bioRxiv
+    publisher: Cold Spring Harbor Laboratory
+
+jiang2026:
+  type: article
+  title: "Aging-related reconfiguration of auditory working-memory control under converging phonological and executive demands: EEG signatures and speech-in-noise performance."
+  author:
+  - "Jiang, Lingxiao"
+  - "Mo, Yefei"
+  - "Mao, Hangze"
+  - "Han, Rong"
+  - "Yu, Zi'ang"
+  - "Song, Yan"
+  - "Liu, Yuhe"
+  date: 2026
+  page-range: "109688"
+  serial-number:
+    doi: "10.1016/j.heares.2026.109688"
+    pmid: "42224926"
+  parent:
+    type: periodical
+    title: "Hearing research"
+    volume: "478"
+
+lin2026:
+  type: article
+  title: "Cognitive load in noise: Neural signatures of speech recognition challenges in children with hearing aids."
+  author:
+  - "Lin, Zhihan"
+  - "Yan, Meiling"
+  - "Sun, Liwei"
+  - "Wang, Ke"
+  - "Feng, Weihao"
+  - "Li, Yitong"
+  - "Li, Chunlin"
+  - "Liu, Haihong"
+  date: 2026
+  page-range: "109626"
+  serial-number:
+    doi: "10.1016/j.heares.2026.109626"
+    pmid: "41934791"
+  parent:
+    type: periodical
+    title: "Hearing research"
+    volume: "475"
+
+beckers2025:
+  type: article
+  title: "Auditory working memory in noise in cochlear implant users: Insights from behavioural and neuronal measures."
+  author:
+  - "Beckers, Loes"
+  - "Philips, Birgit"
+  - "Huinck, Wendy"
+  - "Mylanus, Emmanuel"
+  - "Büchner, Andreas"
+  - "Kral, Andrej"
+  date: 2025
+  page-range: "109167"
+  serial-number:
+    doi: "10.1016/j.heares.2024.109167"
+    pmid: "39719815"
+  parent:
+    type: periodical
+    title: "Hearing research"
+    volume: "456"
+
+bonetti2025:
+  type: article
+  title: "BROAD-NESS Uncovers Dual-Stream Mechanisms Underlying Predictive Coding in Auditory Memory Networks."
+  author:
+  - "Bonetti, Leonardo"
+  - "Fernández-Rubio, Gemma"
+  - "Andersen, Mathias H"
+  - "Malvaso, Chiara"
+  - "Carlomagno, Francesco"
+  - "Testa, Claudia"
+  - "Vuust, Peter"
+  - "Kringelbach, Morten L"
+  - "Rosso, Mattia"
+  date: 2025
+  page-range: "e07878"
+  serial-number:
+    doi: "10.1002/advs.202507878"
+    pmid: "41020476"
+  parent:
+    type: periodical
+    title: "Advanced science (Weinheim, Baden-Wurttemberg, Germany)"
+    volume: "12"
+    issue: "44"
+
+chow2025:
+  type: article
+  title: "Mismatch negativity predicts age-related declines in memory precision."
+  author:
+  - "Chow, Ricky"
+  - "Baker, Stevenson"
+  - "Mo, Shimin"
+  - "Bugos, Jennifer A"
+  - "Alain, Claude"
+  - "Rosenbaum, R Shayna"
+  date: 2025
+  page-range: "32-48"
+  serial-number:
+    doi: "10.1016/j.neurobiolaging.2024.11.012"
+    pmid: "39689526"
+  parent:
+    type: periodical
+    title: "Neurobiology of aging"
+    volume: "147"
+
+cui2025:
+  type: article
+  title: "Cross-modal semantic and non-semantic distraction impairs auditory working memory: Behavioral and ERP evidence."
+  author:
+  - "Cui, Jiahong"
+  - "Shen, Nianqiu"
+  - "Chen, Hongjun"
+  - "Zhou, Hongyu"
+  - "Hu, Lei"
+  - "Yu, Wenbo"
+  - "Liu, Zhihan"
+  - "Sawamura, Daisuke"
+  - "Wang, Yuxuan"
+  - "Cong, Fengyu"
+  date: 2025
+  page-range: "109154"
+  serial-number:
+    doi: "10.1016/j.biopsycho.2025.109154"
+    pmid: "41176206"
+  parent:
+    type: periodical
+    title: "Biological psychology"
+    volume: "202"
+
+delpopolocristaldi2025:
+  type: article
+  title: "The Impact of Auditory Distraction on Visual Memory Encoding in Middle-aged and Older Adults: A High-density Electroencephalography Study."
+  author:
+  - "Del Popolo Cristaldi, Fiorella"
+  - "Saccani, Maria Silvia"
+  - "Contemori, Giulio"
+  - "Livoti, Vincenzo"
+  - "Bonato, Mario"
+  date: 2025
+  page-range: "1449-1478"
+  serial-number:
+    doi: "10.1162/jocn_a_02330"
+    pmid: "40136269"
+  parent:
+    type: periodical
+    title: "Journal of cognitive neuroscience"
+    volume: "37"
+    issue: "9"
+
+hebron2025:
+  type: article
+  title: "Lateralised modulation of posterior alpha oscillations by closed loop auditory stimulation during memory retention."
+  author:
+  - "Hebron, Henry"
+  - "Dimitrova, Radost"
+  - "Jaramillo, Valeria"
+  - "Dijk, Derk-Jan"
+  - "Violante, Ines R"
+  date: 2025
+  page-range: "bhaf250"
+  serial-number:
+    doi: "10.1093/cercor/bhaf250"
+    pmid: "40928755"
+  parent:
+    type: periodical
+    title: "Cerebral cortex (New York, N.Y. : 1991)"
+    volume: "35"
+    issue: "8"
+
+pashkov2025:
+  type: article
+  title: "Direct Comparison of EEG Resting State and Task Functional Connectivity Patterns for Predicting Working Memory Performance Using Connectome-Based Predictive Modeling."
+  author:
+  - "Pashkov, Anton"
+  - "Dakhtin, Ivan"
+  date: 2025
+  page-range: "175-187"
+  serial-number:
+    doi: "10.1089/brain.2024.0059"
+    pmid: "40317131"
+  parent:
+    type: periodical
+    title: "Brain connectivity"
+    volume: "15"
+    issue: "4"
+
+prince2025:
+  type: article
+  title: "Effects of age on the neural correlates of auditory working memory in cochlear implant users."
+  author:
+  - "Prince, Priyanka"
+  - "Alain, Claude"
+  - "Chen, Joseph"
+  - "Le, Trung"
+  - "Lin, Vincent"
+  - "Dimitrijevic, Andrew"
+  date: 2025
+  page-range: "e0325930"
+  serial-number:
+    doi: "10.1371/journal.pone.0325930"
+    pmid: "40561110"
+  parent:
+    type: periodical
+    title: "PloS one"
+    volume: "20"
+    issue: "6"
+
+tian2025:
+  type: article
+  title: "Rhythm Facilitates Auditory Working Memory via Beta-Band Encoding and Theta-Band Maintenance."
+  author:
+  - "Tian, Suizi"
+  - "Cheng, Yu-Ang"
+  - "Luo, Huan"
+  date: 2025
+  page-range: "195-210"
+  serial-number:
+    doi: "10.1007/s12264-024-01289-w"
+    pmid: "39215886"
+  parent:
+    type: periodical
+    title: "Neuroscience bulletin"
+    volume: "41"
+    issue: "2"
+
+zhao2025:
+  type: article
+  title: "Semantic-based audiovisual integration enhances active storage in visual working memory."
+  author:
+  - "Zhao, Song"
+  - "Hui, Shilong"
+  - "Chen, Minran"
+  - "Feng, Chengzhi"
+  - "Zhai, Mengdie"
+  - "Feng, Wenfeng"
+  date: 2025
+  page-range: "121577"
+  serial-number:
+    doi: "10.1016/j.neuroimage.2025.121577"
+    pmid: "41213442"
+  parent:
+    type: periodical
+    title: "NeuroImage"
+    volume: "323"
+
+borderie2024:
+  type: article
+  title: "Cross-frequency coupling in cortico-hippocampal networks supports the maintenance of sequential auditory information in short-term memory."
+  author:
+  - "Borderie, Arthur"
+  - "Caclin, Anne"
+  - "Lachaux, Jean-Philippe"
+  - "Perrone-Bertollotti, Marcela"
+  - "Hoyer, Roxane S"
+  - "Kahane, Philippe"
+  - "Catenoix, Hélène"
+  - "Tillmann, Barbara"
+  - "Albouy, Philippe"
+  date: 2024
+  page-range: "e3002512"
+  serial-number:
+    doi: "10.1371/journal.pbio.3002512"
+    pmid: "38442128"
+  parent:
+    type: periodical
+    title: "PLoS biology"
+    volume: "22"
+    issue: "3"
+
+frei2024:
+  type: article
+  title: "Processing of Visual Speech Cues in Speech-in-Noise Comprehension Depends on Working Memory Capacity and Enhances Neural Speech Tracking in Older Adults With Hearing Impairment."
+  author:
+  - "Frei, Vanessa"
+  - "Schmitt, Raffael"
+  - "Meyer, Martin"
+  - "Giroud, Nathalie"
+  date: 2024
+  page-range: "23312165241287622"
+  serial-number:
+    doi: "10.1177/23312165241287622"
+    pmid: "39444375"
+  parent:
+    type: periodical
+    title: "Trends in hearing"
+    volume: "28"
+
+inguscio2024:
+  type: article
+  title: "Two are better than one: Differences in cortical EEG patterns during auditory and visual verbal working memory processing between Unilateral and Bilateral Cochlear Implanted children."
+  author:
+  - "Inguscio, Bianca Maria Serena"
+  - "Cartocci, Giulia"
+  - "Sciaraffa, Nicolina"
+  - "Nicastri, Maria"
+  - "Giallini, Ilaria"
+  - "Aricò, Pietro"
+  - "Greco, Antonio"
+  - "Babiloni, Fabio"
+  - "Mancini, Patrizia"
+  date: 2024
+  page-range: "109007"
+  serial-number:
+    doi: "10.1016/j.heares.2024.109007"
+    pmid: "38608331"
+  parent:
+    type: periodical
+    title: "Hearing research"
+    volume: "446"
+
+kausel2024:
+  type: article
+  title: "Theta and alpha oscillations may underlie improved attention and working memory in musically trained children."
+  author:
+  - "Kausel, Leonie"
+  - "Zamorano, F"
+  - "Billeke, P"
+  - "Sutherland, M E"
+  - "Alliende, M I"
+  - "Larrain-Valenzuela, J"
+  - "Soto-Icaza, P"
+  - "Aboitiz, F"
+  date: 2024
+  page-range: "e3517"
+  serial-number:
+    doi: "10.1002/brb3.3517"
+    pmid: "38702896"
+  parent:
+    type: periodical
+    title: "Brain and behavior"
+    volume: "14"
+    issue: "5"
+
+rao2024:
+  type: article
+  title: "Predicting the effectiveness of binaural beats on working memory."
+  author:
+  - "Rao, Ahmad Zahid"
+  - "Mujib, Muhammad Danish"
+  - "Qazi, Saad Ahmed"
+  - "Alokaily, Ahmad O"
+  - "Ikhlaq, Ayesha"
+  - "Mirza, Eraj Humayun"
+  - "Aldohbeyb, Ahmed Ali"
+  - "Hasan, Muhammad Abul"
+  date: 2024
+  page-range: "1082-1089"
+  serial-number:
+    doi: "10.1097/WNR.0000000000002101"
+    pmid: "39423321"
+  parent:
+    type: periodical
+    title: "Neuroreport"
+    volume: "35"
+    issue: "17"
+
+cho2023:
+  type: article
+  title: "Role of line junctions in expert object recognition: The case of musical notation."
+  author:
+  - "Cho, Felix Tze-Hei"
+  - "Tan, Cheng Yong"
+  - "Wong, Yetta Kwailing"
+  date: 2023
+  page-range: "e14236"
+  serial-number:
+    doi: "10.1111/psyp.14236"
+    pmid: "36653897"
+  parent:
+    type: periodical
+    title: "Psychophysiology"
+    volume: "60"
+    issue: "5"
+
+paraskevoudi2023:
+  type: article
+  title: "Sensory suppression and increased neuromodulation during actions disrupt memory encoding of unpredictable self-initiated stimuli."
+  author:
+  - "Paraskevoudi, Nadia"
+  - "SanMiguel, Iria"
+  date: 2023
+  page-range: "e14156"
+  serial-number:
+    doi: "10.1111/psyp.14156"
+    pmid: "35918912"
+  parent:
+    type: periodical
+    title: "Psychophysiology"
+    volume: "60"
+    issue: "1"
+
+pomper2023:
+  type: article
+  title: "Neural dynamics underlying successful auditory short-term memory performance."
+  author:
+  - "Pomper, Ulrich"
+  - "Curetti, Lorenza Zaira"
+  - "Chait, Maria"
+  date: 2023
+  page-range: "3859-3878"
+  serial-number:
+    doi: "10.1111/ejn.16140"
+    pmid: "37691137"
+  parent:
+    type: periodical
+    title: "The European journal of neuroscience"
+    volume: "58"
+    issue: "8"
+
+qin2023:
+  type: article
+  title: "Unbalance between working memory task-activation and task-deactivation networks in epilepsy: Simultaneous EEG-fMRI study."
+  author:
+  - "Qin, Yun"
+  - "Jiang, Sisi"
+  - "Xiong, Siwei"
+  - "Li, Sipei"
+  - "Fu, Qiankun"
+  - "Yang, Lili"
+  - "Du, Peishan"
+  - "Luo, Cheng"
+  - "Yao, Dezhong"
+  date: 2023
+  page-range: "1188-1199"
+  serial-number:
+    doi: "10.1002/jnr.25183"
+    pmid: "36866516"
+  parent:
+    type: periodical
+    title: "Journal of neuroscience research"
+    volume: "101"
+    issue: "7"
+
+albouy2022:
+  type: article
+  title: "Supramodality of neural entrainment: Rhythmic visual stimulation causally enhances auditory working memory performance."
+  author:
+  - "Albouy, Philippe"
+  - "Martinez-Moreno, Zaida E"
+  - "Hoyer, Roxane S"
+  - "Zatorre, Robert J"
+  - "Baillet, Sylvain"
+  date: 2022
+  page-range: "eabj9782"
+  serial-number:
+    doi: "10.1126/sciadv.abj9782"
+    pmid: "35196074"
+  parent:
+    type: periodical
+    title: "Science advances"
+    volume: "8"
+    issue: "8"
+
+bidelman2021:
+  type: article
+  title: "Auditory cortex supports verbal working memory capacity."
+  author:
+  - "Bidelman, Gavin M"
+  - "Brown, Jane A"
+  - "Bashivan, Pouya"
+  date: 2021
+  page-range: "163-168"
+  serial-number:
+    doi: "10.1097/WNR.0000000000001570"
+    pmid: "33323838"
+  parent:
+    type: periodical
+    title: "Neuroreport"
+    volume: "32"
+    issue: "2"
+
+inguscio2021:
+  type: article
+  title: "Neurophysiological Verbal Working Memory Patterns in Children: Searching for a Benchmark of Modality Differences in Audio/Video Stimuli Processing."
+  author:
+  - "Inguscio, Bianca Maria Serena"
+  - "Cartocci, Giulia"
+  - "Sciaraffa, Nicolina"
+  - "Nasta, Claudia"
+  - "Giorgi, Andrea"
+  - "Nicastri, Maria"
+  - "Giallini, Ilaria"
+  - "Greco, Antonio"
+  - "Babiloni, Fabio"
+  - "Mancini, Patrizia"
+  date: 2021
+  page-range: "4158580"
+  serial-number:
+    doi: "10.1155/2021/4158580"
+    pmid: "34966418"
+  parent:
+    type: periodical
+    title: "Computational intelligence and neuroscience"
+    volume: "2021"
+
+herman2020:
+  type: article
+  title: "The Visual Word Form Area compensates for auditory working memory dysfunction in schizophrenia."
+  author:
+  - "Herman, Alexander B"
+  - "Brown, Ethan G"
+  - "Dale, Corby L"
+  - "Hinkley, Leighton B"
+  - "Subramaniam, Karuna"
+  - "Houde, John F"
+  - "Fisher, Melissa"
+  - "Vinogradov, Sophia"
+  - "Nagarajan, Srikantan S"
+  date: 2020
+  page-range: "8881"
+  serial-number:
+    doi: "10.1038/s41598-020-63962-0"
+    pmid: "32483253"
+  parent:
+    type: periodical
+    title: "Scientific reports"
+    volume: "10"
+    issue: "1"
+
+muller2020:
+  type: article
+  title: "Influence of auditory attention on sentence recognition captured by the neural phase."
+  author:
+  - "Müller, Jana Annina"
+  - "Kollmeier, Birger"
+  - "Debener, Stefan"
+  - "Brand, Thomas"
+  date: 2020
+  page-range: "1305-1314"
+  serial-number:
+    doi: "10.1111/ejn.13896"
+    pmid: "29514397"
+  parent:
+    type: periodical
+    title: "The European journal of neuroscience"
+    volume: "51"
+    issue: "5"
+
+bastarrikairiarte2019:
+  type: article
+  title: "Closing eyes during auditory memory retrieval modulates alpha rhythm but does not alter tau rhythm."
+  author:
+  - "Bastarrika-Iriarte, A"
+  - "Caballero-Gaudes, C"
+  date: 2019
+  page-range: "60-68"
+  serial-number:
+    doi: "10.1016/j.neuroimage.2019.04.053"
+    pmid: "31015026"
+  parent:
+    type: periodical
+    title: "NeuroImage"
+    volume: "197"
+
+dehais2019:
+  type: article
+  title: "Inattentional deafness to auditory alarms: Inter-individual differences, electrophysiological signature and single trial classification."
+  author:
+  - "Dehais, F"
+  - "Roy, R N"
+  - "Scannella, S"
+  date: 2019
+  page-range: "51-59"
+  serial-number:
+    doi: "10.1016/j.bbr.2018.11.045"
+    pmid: "30508609"
+  parent:
+    type: periodical
+    title: "Behavioural brain research"
+    volume: "360"
+
+morris2019:
+  type: article
+  title: "Electrophysiological and behavioral measures of some speech contrasts in varied attention and noise."
+  author:
+  - "Morris, David Jackson"
+  - "Tøndering, John"
+  - "Lindgren, Magnus"
+  date: 2019
+  page-range: "1-9"
+  serial-number:
+    doi: "10.1016/j.heares.2018.12.001"
+    pmid: "30553033"
+  parent:
+    type: periodical
+    title: "Hearing research"
+    volume: "373"
+
+tune2018:
+  type: article
+  title: "Probing the limits of alpha power lateralisation as a neural marker of selective attention in middle-aged and older listeners."
+  author:
+  - "Tune, Sarah"
+  - "Wöstmann, Malte"
+  - "Obleser, Jonas"
+  date: 2018
+  page-range: "2537-2550"
+  serial-number:
+    doi: "10.1111/ejn.13862"
+    pmid: "29430736"
+  parent:
+    type: periodical
+    title: "The European journal of neuroscience"
+    volume: "48"
+    issue: "7"
+
+wessel2018:
+  type: article
+  title: "A Neural Mechanism for Surprise-related Interruptions of Visuospatial Working Memory."
+  author:
+  - "Wessel, Jan R"
+  date: 2018
+  page-range: "199-212"
+  serial-number:
+    doi: "10.1093/cercor/bhw367"
+    pmid: "27909006"
+  parent:
+    type: periodical
+    title: "Cerebral cortex (New York, N.Y. : 1991)"
+    volume: "28"
+    issue: "1"
+
+zaske2018:
+  type: article
+  title: "Electrophysiological correlates of voice memory for young and old speakers in young and old listeners."
+  author:
+  - "Zäske, Romi"
+  - "Limbach, Katharina"
+  - "Schneider, Dana"
+  - "Skuk, Verena G"
+  - "Dobel, Christian"
+  - "Guntinas-Lichius, Orlando"
+  - "Schweinberger, Stefan R"
+  date: 2018
+  page-range: "215-227"
+  serial-number:
+    doi: "10.1016/j.neuropsychologia.2017.08.011"
+    pmid: "28802769"
+  parent:
+    type: periodical
+    title: "Neuropsychologia"
+    volume: "116"
+    issue: "Pt B"
+
+albouy2017:
+  type: article
+  title: "Selective Entrainment of Theta Oscillations in the Dorsal Stream Causally Enhances Auditory Working Memory Performance."
+  author:
+  - "Albouy, Philippe"
+  - "Weiss, Aurélien"
+  - "Baillet, Sylvain"
+  - "Zatorre, Robert J"
+  date: 2017
+  page-range: "193-206.e5"
+  serial-number:
+    doi: "10.1016/j.neuron.2017.03.015"
+    pmid: "28343866"
+  parent:
+    type: periodical
+    title: "Neuron"
+    volume: "94"
+    issue: "1"
+
+impey2017:
+  type: article
+  title: "Effects of transcranial direct current stimulation on the auditory mismatch negativity response and working memory performance in schizophrenia: a pilot study."
+  author:
+  - "Impey, Danielle"
+  - "Baddeley, Ashley"
+  - "Nelson, Renee"
+  - "Labelle, Alain"
+  - "Knott, Verner"
+  date: 2017
+  page-range: "1489-1501"
+  serial-number:
+    doi: "10.1007/s00702-017-1783-y"
+    pmid: "28864916"
+  parent:
+    type: periodical
+    title: "Journal of neural transmission (Vienna, Austria : 1996)"
+    volume: "124"
+    issue: "11"
+
+meltzer2017:
+  type: article
+  title: "Electrophysiological signatures of phonological and semantic maintenance in sentence repetition."
+  author:
+  - "Meltzer, Jed A"
+  - "Kielar, Aneta"
+  - "Panamsky, Lilia"
+  - "Links, Kira A"
+  - "Deschamps, Tiffany"
+  - "Leigh, Rosie C"
+  date: 2017
+  page-range: "302-314"
+  serial-number:
+    doi: "10.1016/j.neuroimage.2017.05.030"
+    pmid: "28526621"
+  parent:
+    type: periodical
+    title: "NeuroImage"
+    volume: "156"
+
+ou2017:
+  type: article
+  title: "Cognitive basis of individual differences in speech perception, production and representations: The role of domain general attentional switching."
+  author:
+  - "Ou, Jinghua"
+  - "Law, Sam-Po"
+  date: 2017
+  page-range: "945-963"
+  serial-number:
+    doi: "10.3758/s13414-017-1283-z"
+    pmid: "28144832"
+  parent:
+    type: periodical
+    title: "Attention, perception & psychophysics"
+    volume: "79"
+    issue: "3"
+
+yu2017:
+  type: article
+  title: "Neural oscillations associated with auditory duration maintenance in working memory."
+  author:
+  - "Yu, Xiaolin"
+  - "Chen, Youguo"
+  - "Qiu, Junjie"
+  - "Li, Xiang"
+  - "Huang, Xiting"
+  date: 2017
+  page-range: "5695"
+  serial-number:
+    doi: "10.1038/s41598-017-06078-2"
+    pmid: "28720790"
+  parent:
+    type: periodical
+    title: "Scientific reports"
+    volume: "7"
+    issue: "1"
+
+lefebvre2016:
+  type: article
+  title: "Memory for pure tone sequences without contour."
+  author:
+  - "Lefebvre, Christine"
+  - "Jolicœur, Pierre"
+  date: 2016
+  page-range: "222-31"
+  serial-number:
+    doi: "10.1016/j.brainres.2016.02.025"
+    pmid: "26903419"
+  parent:
+    type: periodical
+    title: "Brain research"
+    volume: "1640"
+    issue: "Pt B"
+
+mathias2016:
+  type: article
+  title: "Sensory, Cognitive, and Sensorimotor Learning Effects in Recognition Memory for Music."
+  author:
+  - "Mathias, Brian"
+  - "Tillmann, Barbara"
+  - "Palmer, Caroline"
+  date: 2016
+  page-range: "1111-26"
+  serial-number:
+    doi: "10.1162/jocn_a_00958"
+    pmid: "27027544"
+  parent:
+    type: periodical
+    title: "Journal of cognitive neuroscience"
+    volume: "28"
+    issue: "8"
+
+sun2016:
+  type: article
+  title: "Remembered or Forgotten?-An EEG-Based Computational Prediction Approach."
+  author:
+  - "Sun, Xuyun"
+  - "Qian, Cunle"
+  - "Chen, Zhongqin"
+  - "Wu, Zhaohui"
+  - "Luo, Benyan"
+  - "Pan, Gang"
+  date: 2016
+  page-range: "e0167497"
+  serial-number:
+    doi: "10.1371/journal.pone.0167497"
+    pmid: "27973531"
+  parent:
+    type: periodical
+    title: "PloS one"
+    volume: "11"
+    issue: "12"
+
+toth2016:
+  type: article
+  title: "EEG signatures accompanying auditory figure-ground segregation."
+  author:
+  - "Tóth, Brigitta"
+  - "Kocsis, Zsuzsanna"
+  - "Háden, Gábor P"
+  - "Szerafin, Ágnes"
+  - "Shinn-Cunningham, Barbara G"
+  - "Winkler, István"
+  date: 2016
+  page-range: "108-119"
+  serial-number:
+    doi: "10.1016/j.neuroimage.2016.07.028"
+    pmid: "27421185"
+  parent:
+    type: periodical
+    title: "NeuroImage"
+    volume: "141"
+
+backer2015:
+  type: article
+  title: "Neural dynamics underlying attentional orienting to auditory representations in short-term memory."
+  author:
+  - "Backer, Kristina C"
+  - "Binns, Malcolm A"
+  - "Alain, Claude"
+  date: 2015
+  page-range: "1307-18"
+  serial-number:
+    doi: "10.1523/JNEUROSCI.1487-14.2015"
+    pmid: "25609643"
+  parent:
+    type: periodical
+    title: "The Journal of neuroscience : the official journal of the Society for Neuroscience"
+    volume: "35"
+    issue: "3"
+
+hawkins2015:
+  type: article
+  title: "Semantic advantage for learning new phonological form representations."
+  author:
+  - "Hawkins, Erin"
+  - "Astle, Duncan E"
+  - "Rastle, Kathleen"
+  date: 2015
+  page-range: "775-86"
+  serial-number:
+    doi: "10.1162/jocn_a_00730"
+    pmid: "25269110"
+  parent:
+    type: periodical
+    title: "Journal of cognitive neuroscience"
+    volume: "27"
+    issue: "4"
+
+lim2015:
+  type: article
+  title: "Selective Attention to Auditory Memory Neurally Enhances Perceptual Precision."
+  author:
+  - "Lim, Sung-Joo"
+  - "Wöstmann, Malte"
+  - "Obleser, Jonas"
+  date: 2015
+  page-range: "16094-104"
+  serial-number:
+    doi: "10.1523/JNEUROSCI.2674-15.2015"
+    pmid: "26658862"
+  parent:
+    type: periodical
+    title: "The Journal of neuroscience : the official journal of the Society for Neuroscience"
+    volume: "35"
+    issue: "49"
+
+wostmann2015:
+  type: article
+  title: "Acoustic detail guides attention allocation in a selective listening task."
+  author:
+  - "Wöstmann, Malte"
+  - "Schröger, Erich"
+  - "Obleser, Jonas"
+  date: 2015
+  page-range: "988-1000"
+  serial-number:
+    doi: "10.1162/jocn_a_00761"
+    pmid: "25390200"
+  parent:
+    type: periodical
+    title: "Journal of cognitive neuroscience"
+    volume: "27"
+    issue: "5"
+
+he2026:
+  type: article
+  title: "Sleep strengthens successor representations of learned sequences in humans."
+  author:
+  - "He, Xianhui"
+  - "Büchel, Philipp K"
+  - "Faghel-Soubeyrand, Simon"
+  - "Klingspohr, Janina"
+  - "Kehl, Marcel S"
+  - "Staresina, Bernhard P"
+  date: 2026
+  page-range: "e3003740"
+  serial-number:
+    doi: "10.1371/journal.pbio.3003740"
+    pmid: "41945608"
+  parent:
+    type: periodical
+    title: "PLoS biology"
+    volume: "24"
+    issue: "4"
+
+xue2026:
+  type: article
+  title: "Hippocampal patterns and associative memory: Distinct intracranial EEG temporal encoding patterns support memory."
+  author:
+  - "Xue, Alice M"
+  - "Hsu, Shaw"
+  - "LaRocque, Karen F"
+  - "Raccah, Omri"
+  - "Gonzalez, Alex"
+  - "Parvizi, Josef"
+  - "Wagner, Anthony D"
+  date: 2026
+  page-range: "2026.03.18.712716"
+  serial-number:
+    doi: "10.64898/2026.03.18.712716"
+    pmid: "41890133"
+  parent:
+    type: periodical
+    title: "bioRxiv : the preprint server for biology"
+
+dash2025:
+  type: article
+  title: "Sequence action representations contextualize during early skill learning."
+  author:
+  - "Dash, Debadatta"
+  - "Iwane, Fumiaki"
+  - "Hayward, William"
+  - "Salamanca-Giron, Roberto F"
+  - "Bönstrup, Marlene"
+  - "Buch, Ethan R"
+  - "Cohen, Leonardo G"
+  date: 2025
+  page-range: "RP102475"
+  serial-number:
+    doi: "10.7554/eLife.102475"
+    pmid: "40938318"
+  parent:
+    type: periodical
+    title: "eLife"
+    volume: "13"
+
+mak2025:
+  type: article
+  title: "EEG insights into predictive coding of temporal regularity in shape sequences."
+  author:
+  - "Mak, Hoi Yan"
+  - "Lin, Qiduo"
+  - "Tzeng, Ovid J L"
+  - "Huang, Hsu-Wen"
+  date: 2025
+  page-range: "109143"
+  serial-number:
+    doi: "10.1016/j.biopsycho.2025.109143"
+    pmid: "41161527"
+  parent:
+    type: periodical
+    title: "Biological psychology"
+    volume: "202"
+
+wu2022:
+  type: article
+  title: "Post-encoding Reactivation Is Related to Learning of Episodes in Humans."
+  author:
+  - "Wu, Xiongbo"
+  - "Viñals, Xavier"
+  - "Ben-Yakov, Aya"
+  - "Staresina, Bernhard P"
+  - "Fuentemilla, Lluís"
+  date: 2022
+  page-range: "74-89"
+  serial-number:
+    doi: "10.1162/jocn_a_01934"
+    pmid: "36306242"
+  parent:
+    type: periodical
+    title: "Journal of cognitive neuroscience"
+    volume: "35"
+    issue: "1"
+
+lutz2021:
+  type: article
+  title: "Occipital sleep spindles predict sequence learning in a visuo-motor task."
+  author:
+  - "Lutz, Nicolas D"
+  - "Admard, Marie"
+  - "Genzoni, Elsa"
+  - "Born, Jan"
+  - "Rauss, Karsten"
+  date: 2021
+  page-range: "zsab056"
+  serial-number:
+    doi: "10.1093/sleep/zsab056"
+    pmid: "33743012"
+  parent:
+    type: periodical
+    title: "Sleep"
+    volume: "44"
+    issue: "8"
+
+zheng2021:
+  type: article
+  title: "Disrupted Modulation of Alpha and Low Beta Oscillations Mediates Temporal Sequence Memory Deficits in People With Schizophrenia."
+  author:
+  - "Zheng, Yicong"
+  - "Liu, Xiaonan L"
+  - "Hsieh, Liang-Tien"
+  - "Hurtado, Mitzi"
+  - "Wang, Yan"
+  - "Niendam, Tara A"
+  - "Carter, Cameron S"
+  - "Ranganath, Charan"
+  - "Ragland, J Daniel"
+  date: 2021
+  page-range: "1157-1164"
+  serial-number:
+    doi: "10.1016/j.bpsc.2021.04.002"
+    pmid: "33862254"
+  parent:
+    type: periodical
+    title: "Biological psychiatry. Cognitive neuroscience and neuroimaging"
+    volume: "6"
+    issue: "12"
+
+kucewicz2019:
+  type: article
+  title: "Human Verbal Memory Encoding Is Hierarchically Distributed in a Continuous Processing Stream."
+  author:
+  - "Kucewicz, Michal T"
+  - "Saboo, Krishnakant"
+  - "Berry, Brent M"
+  - "Kremen, Vaclav"
+  - "Miller, Laura R"
+  - "Khadjevand, Fatemeh"
+  - "Inman, Cory S"
+  - "Wanda, Paul"
+  - "Sperling, Michael R"
+  - "Gorniak, Richard"
+  - "Davis, Kathryn A"
+  - "Jobst, Barbara C"
+  - "Lega, Bradley"
+  - "Sheth, Sameer A"
+  - "Rizzuto, Daniel S"
+  - "Iyer, Ravishankar K"
+  - "Kahana, Michael J"
+  - "Worrell, Gregory A"
+  date: 2019
+  page-range: "ENEURO.0214-18.2018"
+  serial-number:
+    doi: "10.1523/ENEURO.0214-18.2018"
+    pmid: "30847390"
+  parent:
+    type: periodical
+    title: "eNeuro"
+    volume: "6"
+    issue: "1"
+
+staudigl2019:
+  type: article
+  title: "Reactivation of neural patterns during memory reinstatement supports encoding specificity."
+  author:
+  - "Staudigl, Tobias"
+  - "Hanslmayr, Simon"
+  date: 2019
+  page-range: "175-185"
+  serial-number:
+    doi: "10.1080/17588928.2019.1621825"
+    pmid: "31185803"
+  parent:
+    type: periodical
+    title: "Cognitive neuroscience"
+    volume: "10"
+    issue: "4"
+
+crivellidecker2018:
+  type: article
+  title: "Theta oscillations promote temporal sequence learning."
+  author:
+  - "Crivelli-Decker, Jordan"
+  - "Hsieh, Liang-Tien"
+  - "Clarke, Alex"
+  - "Ranganath, Charan"
+  date: 2018
+  page-range: "92-103"
+  serial-number:
+    doi: "10.1016/j.nlm.2018.05.001"
+    pmid: "29753784"
+  parent:
+    type: periodical
+    title: "Neurobiology of learning and memory"
+    volume: "153"
+    issue: "Pt A"
+
+vilaballo2018:
+  type: article
+  title: "Neural signatures for active maintenance and interference during working memory updating."
+  author:
+  - "Vilà-Balló, Adrià"
+  - "Salmi, Juha"
+  - "Soveri, Anna"
+  - "Rodríguez-Fornells, Antoni"
+  - "Lehtonen, Minna"
+  - "Laine, Matti"
+  date: 2018
+  page-range: "233-243"
+  serial-number:
+    doi: "10.1016/j.biopsycho.2018.01.007"
+    pmid: "29339147"
+  parent:
+    type: periodical
+    title: "Biological psychology"
+    volume: "132"
+
+batterink2017:
+  type: article
+  title: "Online neural monitoring of statistical learning."
+  author:
+  - "Batterink, Laura J"
+  - "Paller, Ken A"
+  date: 2017
+  page-range: "31-45"
+  serial-number:
+    doi: "10.1016/j.cortex.2017.02.004"
+    pmid: "28324696"
+  parent:
+    type: periodical
+    title: "Cortex; a journal devoted to the study of the nervous system and behavior"
+    volume: "90"
+
+cohen2016:
+  type: article
+  title: "Memorable Audiovisual Narratives Synchronize Sensory and Supramodal Neural Responses."
+  author:
+  - "Cohen, Samantha S"
+  - "Parra, Lucas C"
+  date: 2016
+  page-range: "ENEURO.0203-16.2016"
+  serial-number:
+    doi: "10.1523/ENEURO.0203-16.2016"
+    pmid: "27844062"
+  parent:
+    type: periodical
+    title: "eNeuro"
+    volume: "3"
+    issue: "6"
+
+donaldson2016:
+  type: article
+  title: "The temporal dynamics of reversal learning: P3 amplitude predicts valence-specific behavioral adjustment."
+  author:
+  - "Donaldson, Kayla R"
+  - "Ait Oumeziane, Belel"
+  - "Hélie, Sebastien"
+  - "Foti, Dan"
+  date: 2016
+  page-range: "24-32"
+  serial-number:
+    doi: "10.1016/j.physbeh.2016.03.034"
+    pmid: "27059320"
+  parent:
+    type: periodical
+    title: "Physiology & behavior"
+    volume: "161"

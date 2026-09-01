@@ -1,0 +1,13 @@
+input/broadness/m3/BROADNESS.mat
+input/broadness/m5/BROADNESS.mat
+input/broadness/m7/BROADNESS.mat
+input/trial_inclusion.csv
+input/participant_demographics.csv
+input/neural_subjects.csv
+input/neural/template.scene
+input/neural/masks/ParcellationPilot.L.inflated.32k_fs_LR.surf.gii
+input/neural/masks/ParcellationPilot.L.midthickness.32k_fs_LR.surf.gii
+input/neural/masks/ParcellationPilot.L.very_inflated.32k_fs_LR.surf.gii
+input/neural/masks/ParcellationPilot.R.inflated.32k_fs_LR.surf.gii
+input/neural/masks/ParcellationPilot.R.midthickness.32k_fs_LR.surf.gii
+input/neural/masks/ParcellationPilot.R.very_inflated.32k_fs_LR.surf.gii
