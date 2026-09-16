@@ -2,24 +2,24 @@
 
 #let participant-table() = figure(
   text(size: 9pt)[#table(
-    columns: (1.35fr, 0.9fr, 0.9fr, 0.9fr),
-    align: (left, center, center, center),
+    columns: (1.35fr, 1fr),
+    align: (left, center),
     inset: (x: 4pt, y: 3pt),
     stroke: none,
     table.hline(stroke: black + 0.6pt),
-    [*Characteristic*], [*Overall*], [*Danish*], [*Chinese*],
+    [*Characteristic*], [*Overall*],
     table.hline(stroke: black + 0.3pt),
-    [Participants, $n$], [#integer(participant("Overall").n)], [#integer(participant("Danish").n)], [#integer(participant("Chinese").n)],
-    [Age, mean ± SD], [#age-cell("Overall")], [#age-cell("Danish")], [#age-cell("Chinese")],
-    [Age range], [#age-range-cell("Overall")], [#age-range-cell("Danish")], [#age-range-cell("Chinese")],
-    [Female, $n$ (\%)], [#count-percent(participant("Overall").female_n, participant("Overall").n)], [#count-percent(participant("Danish").female_n, participant("Danish").n)], [#count-percent(participant("Chinese").female_n, participant("Chinese").n)],
-    [Male, $n$ (\%)], [#count-percent(participant("Overall").male_n, participant("Overall").n)], [#count-percent(participant("Danish").male_n, participant("Danish").n)], [#count-percent(participant("Chinese").male_n, participant("Chinese").n)],
-    [Compensation], [#integer(participant("Overall").compensation_dkk) DKK], [-], [-],
+    [Participants, $n$], [#integer(participant("Overall").n)],
+    [Age, mean ± SD], [#age-cell("Overall")],
+    [Age range], [#age-range-cell("Overall")],
+    [Female, $n$ (\%)], [#count-percent(participant("Overall").female_n, participant("Overall").n)],
+    [Male, $n$ (\%)], [#count-percent(participant("Overall").male_n, participant("Overall").n)],
+    [Compensation], [#integer(participant("Overall").compensation_dkk) DKK],
     table.hline(stroke: black + 0.6pt),
   )],
   kind: table,
   supplement: [Table],
-  caption: [*Participant characteristics.* Age data: #integer(participant("Danish").age_n)/#integer(participant("Danish").n) Danish and #integer(participant("Chinese").age_n)/#integer(participant("Chinese").n) Chinese participants. Percentages use full group denominators.],
+  caption: [*Participant characteristics.* Age data were available for #integer(participant("Overall").age_n) of #integer(participant("Overall").n) participants. Percentages use the full sample as denominator.],
 )
 
 #let behavioural-table() = figure(

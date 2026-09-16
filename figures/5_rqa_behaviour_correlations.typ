@@ -59,7 +59,7 @@
     v(CAPTION_GAP)
   },
   caption: [
-    *RQA-behaviour correlations across melody length and condition*. Heatmaps show Pearson correlations between RQA metrics and behavioural accuracy or mean response time across participants; no-response trials were excluded from mean response times. Tile values are Pearson correlation coefficients. Tile color indicates direction and magnitude, from #color-box(CORRECT) negative to #color-box(INCORRECT) positive correlations; #color-box(NO_RESPONSE) neutral tiles indicate non-significant correlations. Asterisks mark significant two-sided Pearson correlation tests, FDR-corrected across the eight RQA metrics.
+    *RQA-behaviour correlations across melody length and condition*. Melody-length correlations were calculated after averaging each participant across conditions, whereas condition correlations were calculated after averaging across melody lengths. Heatmaps show Pearson correlations between RQA metrics and behavioural accuracy or mean response time across participants; no-response trials were excluded from mean response times. Tile values are Pearson correlation coefficients. Tile color indicates direction and magnitude, from #color-box(CORRECT) negative to #color-box(INCORRECT) positive correlations; #color-box(NO_RESPONSE) neutral tiles indicate non-significant correlations. Asterisks mark significant two-sided Pearson correlation tests, FDR-corrected across the eight RQA metrics.
   ],
 )<fig:rqa-behaviour-correlations>
 ]

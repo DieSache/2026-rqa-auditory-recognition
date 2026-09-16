@@ -1,3 +1,470 @@
+bonetti2026perspective:
+  type: article
+  title: "A low-dimensional hypothesis for cognition and the human brain"
+  author:
+  - "Bonetti, Leonardo"
+  - "Grosjean, Barbara A. P."
+  - "Malvaso, Chiara"
+  - "Kudriavtsev, Nikita"
+  - "Fernandez-Rubio, Gemma"
+  - "Rosso, Mattia"
+  date: 2026
+  url: "https://doi.org/10.31234/osf.io/sn26e_v2"
+  parent:
+    type: periodical
+    title: "PsyArXiv"
+
+cunningham2014:
+  type: article
+  title: "Dimensionality reduction for large-scale neural recordings"
+  author:
+  - "Cunningham, John P."
+  - "Yu, Byron M."
+  date: 2014
+  page-range: "1500-1509"
+  serial-number:
+    doi: "10.1038/nn.3776"
+    pmid: "25151264"
+  parent:
+    type: periodical
+    title: "Nature Neuroscience"
+    volume: "17"
+    issue: "11"
+
+taghia2018:
+  type: article
+  title: "Uncovering hidden brain state dynamics that regulate performance and decision-making during cognition"
+  author:
+  - "Taghia, Jalil"
+  - "Cai, Weidong"
+  - "Ryali, Srikanth"
+  - "Kochalka, John"
+  - "Nicholas, Jonathan"
+  - "Chen, Tianwen"
+  - "Menon, Vinod"
+  date: 2018
+  page-range: "2505"
+  serial-number:
+    doi: "10.1038/s41467-018-04723-6"
+    pmid: "29950686"
+  parent:
+    type: periodical
+    title: "Nature Communications"
+    volume: "9"
+    issue: "1"
+
+shine2019:
+  type: article
+  title: "Human cognition involves the dynamic integration of neural activity and neuromodulatory systems"
+  author:
+  - "Shine, James M."
+  - "Breakspear, Michael"
+  - "Bell, Peter T."
+  - "Ehgoetz Martens, Kaylena A."
+  - "Shine, Richard"
+  - "Koyejo, Oluwasanmi"
+  - "Sporns, Olaf"
+  - "Poldrack, Russell A."
+  date: 2019
+  page-range: "289-296"
+  serial-number:
+    doi: "10.1038/s41593-018-0312-0"
+    pmid: "30664771"
+  parent:
+    type: periodical
+    title: "Nature Neuroscience"
+    volume: "22"
+    issue: "2"
+
+gu2021:
+  type: article
+  title: "Temporal Dynamics of Functional Brain States Underlie Cognitive Performance"
+  author:
+  - "Gu, Hong"
+  - "Schulz, Kurt P."
+  - "Fan, Jin"
+  - "Yang, Yihong"
+  date: 2021
+  page-range: "2125-2138"
+  serial-number:
+    doi: "10.1093/cercor/bhaa350"
+  parent:
+    type: periodical
+    title: "Cerebral Cortex"
+    volume: "31"
+    issue: "4"
+
+iyer2022:
+  type: article
+  title: "Focal neural perturbations reshape low-dimensional trajectories of brain activity supporting cognitive performance"
+  author:
+  - "Iyer, Kartik K."
+  - "Hwang, Kai"
+  - "Hearne, Luke J."
+  - "Muller, Eli"
+  - "D'Esposito, Mark"
+  - "Shine, James M."
+  - "Cocchi, Luca"
+  date: 2022
+  page-range: "4"
+  serial-number:
+    doi: "10.1038/s41467-021-26978-2"
+    pmid: "35013147"
+  parent:
+    type: periodical
+    title: "Nature Communications"
+    volume: "13"
+    issue: "1"
+
+song2023:
+  type: article
+  title: "Large-scale neural dynamics in a shared low-dimensional state space reflect cognitive and attentional dynamics"
+  author:
+  - "Song, Hayoung"
+  - "Shim, Won Mok"
+  - "Rosenberg, Monica D."
+  date: 2023
+  page-range: "e85487"
+  serial-number:
+    doi: "10.7554/eLife.85487"
+    pmid: "37395724"
+  parent:
+    type: periodical
+    title: "eLife"
+    volume: "12"
+
+perl2025:
+  type: article
+  title: "Modelling low-dimensional interacting brain networks reveals organising principle in human cognition"
+  author:
+  - "Sanz Perl, Yonatan"
+  - "Geli, Sebastian"
+  - "Perez-Ordoyo, Eider"
+  - "Zonca, Lou"
+  - "Idesis, Sebastian"
+  - "Vohryzek, Jakub"
+  - "Jirsa, Viktor K."
+  - "Kringelbach, Morten L."
+  - "Tagliazucchi, Enzo"
+  - "Deco, Gustavo"
+  date: 2025
+  page-range: "661-681"
+  serial-number:
+    doi: "10.1162/netn_a_00434"
+    pmid: "40487363"
+  parent:
+    type: periodical
+    title: "Network Neuroscience"
+    volume: "9"
+    issue: "2"
+
+fernandezrubio2026reactivation:
+  type: article
+  title: "Memory encoding begins with spontaneous neural reactivation"
+  author:
+  - "Fernandez-Rubio, Gemma"
+  - "Brattico, Elvira"
+  - "Kringelbach, Morten L."
+  - "Vuust, Peter"
+  - "Bonetti, Leonardo"
+  date: 2026
+  url: "https://doi.org/10.64898/2026.08.31.747822"
+  parent:
+    type: periodical
+    title: "bioRxiv"
+
+fernandezrubio2026encoding:
+  type: article
+  title: "Brain dynamics of memory encoding for simple versus complex musical sequences"
+  author:
+  - "Fernandez-Rubio, Gemma"
+  - "Bonetti, Leonardo"
+  - "Kringelbach, Morten L."
+  - "Vuust, Peter"
+  - "Brattico, Elvira"
+  date: 2026
+  url: "https://doi.org/10.64898/2026.08.28.747779"
+  parent:
+    type: periodical
+    title: "bioRxiv"
+
+bonetti2025workingmemory:
+  type: article
+  title: "Working Memory Predicts Long-Term Recognition of Auditory Sequences: Dissociation Between Confirmed Predictions and Prediction Errors"
+  author:
+  - "Bonetti, L."
+  - "Risgaard Olsen, E."
+  - "Carlomagno, F."
+  - "Serra, E."
+  - "Szabó, S. A."
+  - "Klarlund, M."
+  - "Andersen, M. H."
+  - "Frausing, L."
+  - "Vuust, P."
+  - "Brattico, E."
+  - "Kringelbach, M. L."
+  - "Fernández-Rubio, G."
+  date: 2025
+  page-range: "842-853"
+  serial-number:
+    doi: "10.1111/sjop.13124"
+  parent:
+    type: periodical
+    title: "Scandinavian Journal of Psychology"
+    volume: "66"
+    issue: "6"
+
+bonetti2025shared:
+  type: article
+  title: "Shared and modality-specific brain networks underlying predictive coding of temporal sequences"
+  author:
+  - "Bonetti, Leonardo"
+  - "Fernandez-Rubio, Gemma"
+  - "Rosso, Mattia"
+  - "Carlomagno, Francesco"
+  - "Malvaso, Antonio"
+  - "Greco, Antonino"
+  - "Kringelbach, Morten L."
+  - "Vuust, Peter"
+  date: 2025
+  url: "https://doi.org/10.1101/2025.07.16.665207"
+  parent:
+    type: periodical
+    title: "bioRxiv"
+
+bonetti2024concept:
+  type: article
+  title: "The neural mechanisms of concept formation over time in music"
+  author:
+  - "Bonetti, Leonardo"
+  - "Fernandez-Rubio, Gemma"
+  - "Szabo, Sonja A."
+  - "Carlomagno, Francesco"
+  - "Vuust, Peter"
+  - "Kringelbach, Morten L."
+  - "Brattico, Elvira"
+  date: 2024
+  url: "https://doi.org/10.1101/2024.11.06.622228"
+  parent:
+    type: periodical
+    title: "bioRxiv"
+
+quirogamartinez2024:
+  type: article
+  title: "Decoding reveals the neural representation of perceived and imagined musical sounds"
+  author:
+  - "Quiroga-Martinez, David R."
+  - "Fernandez Rubio, Gemma"
+  - "Bonetti, Leonardo"
+  - "Achyutuni, Kriti G."
+  - "Tzovara, Athina"
+  - "Knight, Robert T."
+  - "Vuust, Peter"
+  date: 2024
+  page-range: "e3002858"
+  serial-number:
+    doi: "10.1371/journal.pbio.3002858"
+  parent:
+    type: periodical
+    title: "PLOS Biology"
+    volume: "22"
+    issue: "10"
+
+bonetti2024aging:
+  type: article
+  title: "Age-related neural changes underlying long-term recognition of musical sequences"
+  author:
+  - "Bonetti, Leonardo"
+  - "Fernandez-Rubio, Gemma"
+  - "Lumaca, Massimo"
+  - "Carlomagno, Francesco"
+  - "Risgaard Olsen, Emma"
+  - "Criscuolo, Antonio"
+  - "Kotz, Sonja A."
+  - "Vuust, Peter"
+  - "Brattico, Elvira"
+  - "Kringelbach, Morten L."
+  date: 2024
+  page-range: "1036"
+  serial-number:
+    doi: "10.1038/s42003-024-06587-7"
+  parent:
+    type: periodical
+    title: "Communications Biology"
+    volume: "7"
+    issue: "1"
+
+bonetti2024wholebrain:
+  type: article
+  title: "Spatiotemporal whole-brain activity and functional connectivity of melodies recognition"
+  author:
+  - "Bonetti, Leonardo"
+  - "Brattico, Elvira"
+  - "Carlomagno, Francesco"
+  - "Cabral, Joana"
+  - "Stevner, Angus"
+  - "Deco, Gustavo"
+  - "Whybrow, Peter C."
+  - "Pearce, Marcus"
+  - "Pantazis, Dimitrios"
+  - "Vuust, Peter"
+  - "Kringelbach, Morten L."
+  date: 2024
+  page-range: "bhae320"
+  serial-number:
+    doi: "10.1093/cercor/bhae320"
+  parent:
+    type: periodical
+    title: "Cerebral Cortex"
+    volume: "34"
+    issue: "8"
+
+bonetti2024hierarchies:
+  type: article
+  title: "Spatiotemporal brain hierarchies of auditory memory recognition and predictive coding"
+  author:
+  - "Bonetti, Leonardo"
+  - "Fernandez-Rubio, Gemma"
+  - "Carlomagno, Francesco"
+  - "Dietz, Mathias"
+  - "Pantazis, Dimitrios"
+  - "Vuust, Peter"
+  - "Kringelbach, Morten L."
+  date: 2024
+  page-range: "4313"
+  serial-number:
+    doi: "10.1038/s41467-024-48302-4"
+  parent:
+    type: periodical
+    title: "Nature Communications"
+    volume: "15"
+    issue: "1"
+
+bonetti2023:
+  type: article
+  title: "Brain recognition of previously learned versus novel temporal sequences: a differential simultaneous processing"
+  author:
+  - "Bonetti, Leonardo"
+  - "Brattico, Elvira"
+  - "Bruzzone, Sofia E. P."
+  - "Donati, Giacomo"
+  - "Deco, Gustavo"
+  - "Pantazis, Dimitrios"
+  - "Vuust, Peter"
+  - "Kringelbach, Morten L."
+  date: 2023
+  page-range: "5524-5537"
+  serial-number:
+    doi: "10.1093/cercor/bhac439"
+  parent:
+    type: periodical
+    title: "Cerebral Cortex"
+    volume: "33"
+    issue: "9"
+
+fernandezrubio2022complex:
+  type: article
+  title: "Magnetoencephalography recordings reveal the spatiotemporal dynamics of recognition memory for complex versus simple auditory sequences"
+  author:
+  - "Fernandez-Rubio, Gemma"
+  - "Brattico, Elvira"
+  - "Kotz, Sonja A."
+  - "Kringelbach, Morten L."
+  - "Vuust, Peter"
+  - "Bonetti, Leonardo"
+  date: 2022
+  page-range: "1272"
+  serial-number:
+    doi: "10.1038/s42003-022-04217-8"
+  parent:
+    type: periodical
+    title: "Communications Biology"
+    volume: "5"
+    issue: "1"
+
+fernandezrubio2022workingmemory:
+  type: article
+  title: "Associations between abstract working memory abilities and brain activity underlying long-term recognition of auditory sequences"
+  author:
+  - "Fernandez-Rubio, Gemma"
+  - "Carlomagno, Francesco"
+  - "Vuust, Peter"
+  - "Kringelbach, Morten L."
+  - "Bonetti, Leonardo"
+  date: 2022
+  page-range: "pgac216"
+  serial-number:
+    doi: "10.1093/pnasnexus/pgac216"
+  parent:
+    type: periodical
+    title: "PNAS Nexus"
+    volume: "1"
+    issue: "4"
+
+rosso2025:
+  type: article
+  title: "FREQ-NESS Reveals the Dynamic Reconfiguration of Frequency-Resolved Brain Networks During Auditory Stimulation"
+  author:
+  - "Rosso, Mattia"
+  - "Fernandez-Rubio, Gemma"
+  - "Keller, Peter Erik"
+  - "Brattico, Elvira"
+  - "Vuust, Peter"
+  - "Kringelbach, Morten L."
+  - "Bonetti, Leonardo"
+  date: 2025
+  page-range: "2413195"
+  serial-number:
+    doi: "10.1002/advs.202413195"
+  parent:
+    type: periodical
+    title: "Advanced Science"
+    volume: "12"
+    issue: "20"
+
+malvaso2026:
+  type: article
+  title: "FREQ-NESS Reveals Age-Related Differences in Frequency-Resolved Brain Networks During Auditory Recognition and Resting State"
+  author:
+  - "Malvaso, Chiara"
+  - "Fernandez-Rubio, Gemma"
+  - "Rosso, Mattia"
+  - "Serra, Elisa"
+  - "Rudi, Vera"
+  - "Vuust, Peter"
+  - "Kringelbach, Morten L."
+  - "Testa, Claudia"
+  - "Bonetti, Leonardo"
+  date: 2026
+  page-range: "e70349"
+  serial-number:
+    doi: "10.1111/nyas.70349"
+  parent:
+    type: periodical
+    title: "Annals of the New York Academy of Sciences"
+    volume: "1562"
+    issue: "1"
+
+andersen2026:
+  type: article
+  title: "Network reconfiguration preserves prediction error signalling in the aging brain"
+  author:
+  - "Andersen, Mathias Houe"
+  - "Fernandez-Rubio, Gemma"
+  - "Quiroga-Martinez, David R."
+  - "Rosso, Mattia"
+  - "Klarlund, Mathias"
+  - "Larsen, Kit Melissa"
+  - "Siebner, Hartwig Roman"
+  - "Kringelbach, Morten L."
+  - "Vuust, Peter"
+  - "Bonetti, Leonardo"
+  date: 2026
+  url: "https://doi.org/10.64898/2026.04.11.717798"
+  parent:
+    type: periodical
+    title: "bioRxiv"
+
 thibeault2024:
   type: article
   title: "The low-rank hypothesis of complex systems"
