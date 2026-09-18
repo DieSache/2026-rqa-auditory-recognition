@@ -19,7 +19,7 @@
   )],
   kind: table,
   supplement: [Table],
-  caption: [*Participant characteristics.* Age data were available for #integer(participant("Overall").age_n) of #integer(participant("Overall").n) participants. Percentages use the full sample as denominator.],
+  caption: [*Participant characteristics.* Percentages use the full sample as denominator.],
 )
 
 #let behavioural-table() = figure(
