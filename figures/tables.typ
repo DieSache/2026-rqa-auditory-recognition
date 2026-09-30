@@ -75,5 +75,5 @@
   supplement: [Table],
   placement: top,
   scope: "parent",
-  caption: [*RQA statistics by condition*. Descriptive values are participant-level means ± SD after averaging each metric across melody lengths for the #sample-n("rqa_complete") participants included in the cross-melody RQA analyses. Inferential rows report the main effect of condition.],
+  caption: [*Recurrence quantification analysis (RQA) statistics by condition*. RR, recurrence rate; $L$, mean diagonal line length; DET, determinism; ENTR, diagonal-line entropy; TT, trapping time; LAM, laminarity; $V_"max"$, maximum vertical line length; DIV, divergence; SD, standard deviation; FDR, false-discovery rate. Descriptive values are participant-level means ± SD after averaging each metric across melody lengths for the #sample-n("rqa_complete") participants included in the cross-melody RQA analyses. Inferential rows report the main effect of condition.],
 )

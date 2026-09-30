@@ -6,7 +6,7 @@ bonetti2026perspective:
   - "Grosjean, Barbara A. P."
   - "Malvaso, Chiara"
   - "Kudriavtsev, Nikita"
-  - "Fernandez-Rubio, Gemma"
+  - "Fernández-Rubio, Gemma"
   - "Rosso, Mattia"
   date: 2026
   url: "https://doi.org/10.31234/osf.io/sn26e_v2"
@@ -162,7 +162,7 @@ fernandezrubio2026reactivation:
   type: article
   title: "Memory encoding begins with spontaneous neural reactivation"
   author:
-  - "Fernandez-Rubio, Gemma"
+  - "Fernández-Rubio, Gemma"
   - "Brattico, Elvira"
   - "Kringelbach, Morten L."
   - "Vuust, Peter"
@@ -177,7 +177,7 @@ fernandezrubio2026encoding:
   type: article
   title: "Brain dynamics of memory encoding for simple versus complex musical sequences"
   author:
-  - "Fernandez-Rubio, Gemma"
+  - "Fernández-Rubio, Gemma"
   - "Bonetti, Leonardo"
   - "Kringelbach, Morten L."
   - "Vuust, Peter"
@@ -219,7 +219,7 @@ bonetti2025shared:
   title: "Shared and modality-specific brain networks underlying predictive coding of temporal sequences"
   author:
   - "Bonetti, Leonardo"
-  - "Fernandez-Rubio, Gemma"
+  - "Fernández-Rubio, Gemma"
   - "Rosso, Mattia"
   - "Carlomagno, Francesco"
   - "Malvaso, Antonio"
@@ -237,7 +237,7 @@ bonetti2024concept:
   title: "The neural mechanisms of concept formation over time in music"
   author:
   - "Bonetti, Leonardo"
-  - "Fernandez-Rubio, Gemma"
+  - "Fernández-Rubio, Gemma"
   - "Szabo, Sonja A."
   - "Carlomagno, Francesco"
   - "Vuust, Peter"
@@ -275,7 +275,7 @@ bonetti2024aging:
   title: "Age-related neural changes underlying long-term recognition of musical sequences"
   author:
   - "Bonetti, Leonardo"
-  - "Fernandez-Rubio, Gemma"
+  - "Fernández-Rubio, Gemma"
   - "Lumaca, Massimo"
   - "Carlomagno, Francesco"
   - "Risgaard Olsen, Emma"
@@ -324,7 +324,7 @@ bonetti2024hierarchies:
   title: "Spatiotemporal brain hierarchies of auditory memory recognition and predictive coding"
   author:
   - "Bonetti, Leonardo"
-  - "Fernandez-Rubio, Gemma"
+  - "Fernández-Rubio, Gemma"
   - "Carlomagno, Francesco"
   - "Dietz, Mathias"
   - "Pantazis, Dimitrios"
@@ -366,7 +366,7 @@ fernandezrubio2022complex:
   type: article
   title: "Magnetoencephalography recordings reveal the spatiotemporal dynamics of recognition memory for complex versus simple auditory sequences"
   author:
-  - "Fernandez-Rubio, Gemma"
+  - "Fernández-Rubio, Gemma"
   - "Brattico, Elvira"
   - "Kotz, Sonja A."
   - "Kringelbach, Morten L."
@@ -386,7 +386,7 @@ fernandezrubio2022workingmemory:
   type: article
   title: "Associations between abstract working memory abilities and brain activity underlying long-term recognition of auditory sequences"
   author:
-  - "Fernandez-Rubio, Gemma"
+  - "Fernández-Rubio, Gemma"
   - "Carlomagno, Francesco"
   - "Vuust, Peter"
   - "Kringelbach, Morten L."
@@ -406,7 +406,7 @@ rosso2025:
   title: "FREQ-NESS Reveals the Dynamic Reconfiguration of Frequency-Resolved Brain Networks During Auditory Stimulation"
   author:
   - "Rosso, Mattia"
-  - "Fernandez-Rubio, Gemma"
+  - "Fernández-Rubio, Gemma"
   - "Keller, Peter Erik"
   - "Brattico, Elvira"
   - "Vuust, Peter"
@@ -427,7 +427,7 @@ malvaso2026:
   title: "FREQ-NESS Reveals Age-Related Differences in Frequency-Resolved Brain Networks During Auditory Recognition and Resting State"
   author:
   - "Malvaso, Chiara"
-  - "Fernandez-Rubio, Gemma"
+  - "Fernández-Rubio, Gemma"
   - "Rosso, Mattia"
   - "Serra, Elisa"
   - "Rudi, Vera"
@@ -450,7 +450,7 @@ andersen2026:
   title: "Network reconfiguration preserves prediction error signalling in the aging brain"
   author:
   - "Andersen, Mathias Houe"
-  - "Fernandez-Rubio, Gemma"
+  - "Fernández-Rubio, Gemma"
   - "Quiroga-Martinez, David R."
   - "Rosso, Mattia"
   - "Klarlund, Mathias"
@@ -1719,3 +1719,132 @@ donaldson2016:
     type: periodical
     title: "Physiology & behavior"
     volume: "161"
+
+vandijk2008:
+  type: article
+  title: "Prestimulus oscillatory activity in the alpha band predicts visual discrimination ability"
+  author:
+  - "van Dijk, Hanneke"
+  - "Schoffelen, Jan-Mathijs"
+  - "Oostenveld, Robert"
+  - "Jensen, Ole"
+  date: 2008
+  page-range: "1816-1823"
+  serial-number:
+    doi: "10.1523/JNEUROSCI.1853-07.2008"
+    pmid: "18287498"
+  parent:
+    type: periodical
+    title: "The Journal of Neuroscience"
+    volume: "28"
+    issue: "8"
+
+haegens2011:
+  type: article
+  title: "Top-down controlled alpha band activity in somatosensory areas determines behavioral performance in a discrimination task"
+  author:
+  - "Haegens, Saskia"
+  - "Händel, Barbara F."
+  - "Jensen, Ole"
+  date: 2011
+  page-range: "5197-5204"
+  serial-number:
+    doi: "10.1523/JNEUROSCI.5199-10.2011"
+    pmid: "21471354"
+  parent:
+    type: periodical
+    title: "The Journal of Neuroscience"
+    volume: "31"
+    issue: "14"
+
+cavanagh2010:
+  type: article
+  title: "Frontal theta links prediction errors to behavioral adaptation in reinforcement learning"
+  author:
+  - "Cavanagh, James F."
+  - "Frank, Michael J."
+  - "Klein, Theresa J."
+  - "Allen, John J. B."
+  date: 2010
+  page-range: "3198-3209"
+  serial-number:
+    doi: "10.1016/j.neuroimage.2009.11.080"
+    pmid: "19969093"
+  parent:
+    type: periodical
+    title: "NeuroImage"
+    volume: "49"
+    issue: "4"
+
+overbye2019:
+  type: article
+  title: "Error processing in the adolescent brain: Age-related differences in electrophysiology, behavioral adaptation, and brain morphology"
+  author:
+  - "Overbye, Knut"
+  - "Walhovd, Kristine B."
+  - "Paus, Tomáš"
+  - "Fjell, Anders M."
+  - "Huster, Rene J."
+  - "Tamnes, Christian K."
+  date: 2019
+  page-range: "100665"
+  serial-number:
+    doi: "10.1016/j.dcn.2019.100665"
+    pmid: "31176282"
+  parent:
+    type: periodical
+    title: "Developmental Cognitive Neuroscience"
+    volume: "38"
+
+vuust2022:
+  type: article
+  title: "Music in the brain"
+  author:
+  - "Vuust, Peter"
+  - "Heggli, Ole A."
+  - "Friston, Karl J."
+  - "Kringelbach, Morten L."
+  date: 2022
+  page-range: "287-305"
+  serial-number:
+    doi: "10.1038/s41583-022-00578-5"
+  parent:
+    type: periodical
+    title: "Nature Reviews Neuroscience"
+    volume: "23"
+    issue: "5"
+
+basinski2023:
+  type: article
+  title: "Temporal hierarchies in the predictive processing of melody: From pure tones to songs"
+  author:
+  - "Basiński, Krzysztof"
+  - "Quiroga-Martinez, David Ricardo"
+  - "Vuust, Peter"
+  date: 2023
+  page-range: "105007"
+  serial-number:
+    doi: "10.1016/j.neubiorev.2022.105007"
+    pmid: "36535375"
+  parent:
+    type: periodical
+    title: "Neuroscience & Biobehavioral Reviews"
+    volume: "145"
+
+kern2022:
+  type: article
+  title: "Cortical activity during naturalistic music listening reflects short-range predictions based on long-term experience"
+  author:
+  - "Kern, Pius"
+  - "Heilbron, Micha"
+  - "de Lange, Floris P."
+  - "Spaak, Eelke"
+  date: 2022
+  page-range: "e80935"
+  serial-number:
+    doi: "10.7554/eLife.80935"
+    pmid: "36562532"
+  parent:
+    type: periodical
+    title: "eLife"
+    volume: "11"
